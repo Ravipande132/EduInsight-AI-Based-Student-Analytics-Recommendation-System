@@ -5,4 +5,3 @@ The system uses various input parameters such as study hours, attendance percent
 In addition to prediction, the project includes a recommendation module that provides actionable suggestions to students. For example, if a student has low study hours or poor attendance, the system will recommend increasing study time or improving class participation. This makes the project not just predictive but also prescriptive in nature.
 The project is implemented using Python in a Jupyter Notebook environment, along with libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn for data processing, visualization, and model building.
 Overall, this system helps educators and students make data-driven decisions, improves academic performance, and demonstrates the practical application of machine learning in the education domain.
-
